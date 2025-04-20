@@ -1,20 +1,42 @@
-## Hi there 👋
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pxMDNwcDQ5dHhjbHA5dGx6ZG0wb2U5bG45cmQ4YWR2ZzVwZWlpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
-</div>
+# 👋 Hey there, I'm Garv!
+
+🎓 I'm a second-year Computer Science & Data Science student at Queensland University of Technology, with a GPA of 6.0 / 7.0.  
+💡 Passionate about **machine learning**, **backend development**, and building real-world applications that solve real problems.
+
+---
+
+## 🚀 What I'm Working On
+- 🧠 **Mealy** – An AI meal prep planner that reduces food waste, tracks pantry inventory, and finds the cheapest grocery options across stores.
+- 🌍 **AI Travel Planner** – A Swift + Python-powered app for smart, daily itinerary planning using Gemini + Google Maps APIs.
+- 🤖 **Ollama Chatbot** – A local AI chatbot hosted on Raspberry Pi that won 1st place at a university AI showcase.
+
+---
+
+## 🧰 Tech Stack
+**Languages:**  
+`Java` `Python` `C` `C#` `Rust` `Swift` `SQL` `JavaScript`
+
+**Frameworks & Tools:**  
+`Flask` `JavaFX` `TensorFlow` `scikit-learn` `Gemini API` `OpenCV` `SQLite` `Xcode` `Android Studio` `VSCode` `Git`
+
+---
+
+## 🏆 Highlights
+- 🥈 2nd Place @ 2024 Hothack Hackathon – *Backend developer of CrowdClix*
+- 🥇 1st Place @ Uni AI Showcase – *Raspberry Pi + Ollama chatbot*
+
+---
+
+## 🌱 Currently Learning
+- Distributed systems and microservices  
+- Advanced AI deployment workflows  
+- More efficient prompt engineering using Gemini
+
+---
+
+## 📫 Connect with Me
+[📧 garvsidana29@gmail.com](mailto:garvsidana29@gmail.com)  
 
 
-<!--
-**G4rv19/G4rv19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

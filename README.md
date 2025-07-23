@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 What I'm Working On
-- 🧠 **Mealy** – An AI meal prep planner that reduces food waste, tracks pantry inventory, and finds the cheapest grocery options across stores.
+- 🧠 **Mealy** – An AI meal prep planner that reduces food waste, tracks pantry inventory, and finds the cheapest grocery options across stores. [Mealy website](https://mealyapp.vercel.app/)
 - 🌍 **AI Travel Planner** – A Swift + Python-powered app for smart, daily itinerary planning using Gemini + Google Maps APIs.
 - 🤖 **WitWizard Ollama Chatbot** – A local AI chatbot hosted on Raspberry Pi that won 1st place at a university AI showcase.
 

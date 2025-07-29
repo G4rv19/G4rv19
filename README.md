@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Garv!
 
-🎓 I'm a second-year Computer Science & Data Science student at Queensland University of Technology.
-💡 Passionate about **machine learning**, **backend development**, and building real-world applications that solve real problems.
+🎓 I'm a second-year Computer Science & Data Science student at Queensland University of Technology
+Whose 💡 Passionate about **machine learning**, **backend development**, and building real-world applications that solve real problems.
 
 ---
 

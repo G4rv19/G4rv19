@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Garv!
 
-🎓 I'm a second-year Computer Science & Data Science student at Queensland University of Technology, with a GPA of 6.0 / 7.0.  
+🎓 I'm a second-year Computer Science & Data Science student at Queensland University of Technology.
 💡 Passionate about **machine learning**, **backend development**, and building real-world applications that solve real problems.
 
 ---

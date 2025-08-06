@@ -17,7 +17,7 @@ Whose 💡 Passionate about **machine learning**, **backend development**, and b
 `Java` `Python` `C` `C#` `Rust` `Swift` `SQL` `JavaScript`
 
 **Frameworks & Tools:**  
-`Flask` `JavaFX` `TensorFlow` `scikit-learn` `Gemini API` `OpenCV` `SQLite` `Xcode` `Android Studio` `VSCode` `Git`
+`Flask` `JavaFX` `TensorFlow` `scikit-learn` `Gemini API` `OpenCV` `SQLite` `Xcode` `React` `VSCode` `Git`
 
 ---
 

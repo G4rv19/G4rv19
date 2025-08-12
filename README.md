@@ -10,7 +10,7 @@
 - 📸 **Mems** – Social memory-sharing app where groups can upload event photos, rank them with a fun “coolness” algorithm, and relive the best moments together. [Mems](https://code-network-winter-hackathon-2025.vercel.app/)
 - 🌍 **AI Travel Planner** – Swift + Python app that creates smart, daily itineraries using Gemini + Google Maps APIs.
 - 🤖 **WitWizard** – Local Ollama-powered AI chatbot running on Raspberry Pi; 1st place winner at university AI showcase.
-- 
+
 ---
 
 ## 🧰 Tech Stack

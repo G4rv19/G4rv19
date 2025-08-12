@@ -1,36 +1,39 @@
 # 👋 Hey there, I'm Garv!
 
 🎓 I'm a second-year Computer Science & Data Science student at Queensland University of Technology
-Whose 💡 Passionate about **machine learning**, **backend development**, and building real-world applications that solve real problems.
+💡 Passionate about **machine learning**, **AI agents & SaaS**, **web app development**, and building real-world applications that solve real problems.
 
 ---
 
-## 🚀 What I'm Working On
-- 🧠 **Mealy** – An AI meal prep planner that reduces food waste, tracks pantry inventory, and finds the cheapest grocery options across stores. [Mealy website](https://mealyapp.vercel.app/)
-- 🌍 **AI Travel Planner** – A Swift + Python-powered app for smart, daily itinerary planning using Gemini + Google Maps APIs.
-- 🤖 **WitWizard Ollama Chatbot** – A local AI chatbot hosted on Raspberry Pi that won 1st place at a university AI showcase.
-
+## 🚀 What I’m Building
+- 🧠 **Mealy** – AI-powered meal prep planner that minimizes food waste, tracks pantry inventory, and finds the cheapest grocery deals across stores. [Website](https://mealyapp.vercel.app/)
+- 📸 **Mems** – Social memory-sharing app where groups can upload event photos, rank them with a fun “coolness” algorithm, and relive the best moments together. [Mems](https://code-network-winter-hackathon-2025.vercel.app/)
+- 🌍 **AI Travel Planner** – Swift + Python app that creates smart, daily itineraries using Gemini + Google Maps APIs.
+- 🤖 **WitWizard** – Local Ollama-powered AI chatbot running on Raspberry Pi; 1st place winner at university AI showcase.
+- 
 ---
 
 ## 🧰 Tech Stack
 **Languages:**  
-`Java` `Python` `C` `C#` `Rust` `Swift` `SQL` `JavaScript`
+`TypeScript` `Java` `Python` `C` `C#` `Rust` `Swift` `SQL` `JavaScript` 
 
 **Frameworks & Tools:**  
-`Flask` `JavaFX` `TensorFlow` `scikit-learn` `Gemini API` `OpenCV` `SQLite` `Xcode` `React` `VSCode` `Git`
+`Express.js` `TensorFlow` `scikit-learn` `React` 
 
 ---
 
 ## 🏆 Highlights
 - 🥈 2nd Place @ 2024 Hothack Hackathon – *Backend developer of CrowdClix*
 - 🥇 1st Place @ Uni AI Showcase – *Raspberry Pi + Ollama chatbot*
+- 🏆 Best Pitch @ Code Network Hackathon - [Mems](https://code-network-winter-hackathon-2025.vercel.app/)
 
 ---
 
 ## 🌱 Currently Learning
-- Distributed systems and microservices  
-- Advanced AI deployment workflows  
-- More efficient prompt engineering using Gemini
+
+- 🌐 Building modern web apps with **React**, APIs, and scalable backend integration  
+- 🤖 **AI implementation & agents** for intelligent SaaS applications  
+- 📊 **Data Structures & Algorithms (DSA)** for performance optimization  
 
 ---
 
